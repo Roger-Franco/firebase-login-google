@@ -1,5 +1,15 @@
 # Getting Started with Create React App
 
+yarn create react-app .
+yarn add firebase
+Firebase: googleauth
+https://www.youtube.com/watch?v=9bXhf_TELP4&list=PLpPqplz6dKxUfvM22GXRvYA4s-mvJE0XF&index=2&t=1s
+
+26:00 minutos
+athentication-tutorial no firebase
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
